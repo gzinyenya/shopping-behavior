@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project provides a comprehensive analysis of customer shopping behavior using a retail transaction dataset. The goal was twofold:
+This project provides a comprehensive analysis of customer shopping behavior using a retail transaction dataset.
+
+**Access the Full Project Notebook:** [GILBERT_ZINYENYA_PROJECT 835 Colab Notebook](https://colab.research.google.com/drive/1S4yK_qW7FH3mYrnJPb55d12WxzPst4pU?usp=sharing )
+
+The goal was twofold:
 1.  To perform an in-depth Exploratory Data Analysis (EDA) to understand key customer profiles, spending patterns, and product preferences.
 2.  To develop a high-performing, **Fairness-Aware Predictive Model** capable of forecasting a customer's purchase category while actively mitigating biases related to Gender and Location.
 
